@@ -1,0 +1,10 @@
+exe,com(debug !.!)
+asm{          @echo off
+              if exist !.exe del !.exe
+              if exist !.obj del !.obj
+              tasm !.asm /z /la
+              if exist !.obj tlink /i /P /x !.obj hscobj.obj
+              if exist !.exe pause
+              if exist !.exe !.exe
+              if exist !.obj del !.obj
+}

@@ -1,0 +1,11 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00000H 00000H _TEXT              CODE
+ 00000H 00000H 00000H _DATA              DATA
+ 00000H 003FFH 00400H STACK              STACK
+ 00400H 04835H 04436H CODE               
+ 04840H 052A9H 00A6AH HSC_PLAYER         
+
+Program entry point at 0040:006E
+

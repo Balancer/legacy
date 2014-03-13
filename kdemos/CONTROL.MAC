@@ -1,0 +1,6 @@
+times   macro   n
+        mov     cx,n
+        next$=$
+times   endm
+
+next    macro
