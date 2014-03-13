@@ -11,7 +11,7 @@ KDEMOS
 с кейгенами что-то подобное прикладывается). Музычка, произвольный текст,
 графические эффекты.
 
-([[http://img543.imageshack.us/img543/2498/dosbox074cpuspeed3000cy.png]])
+(http://img543.imageshack.us/img543/2498/dosbox074cpuspeed3000cy.png)
 
 Писалось на ассемблере. Графические эффекты подразумевались модульными,
 с произвольным расширением. Псевдопараллельность (что-то типа кооперативной
@@ -25,10 +25,10 @@ KDEMOS
 * [Пример кода. Генерация псевдослучайного числа](https://github.com/Balancer/legacy/blob/master/kdemos/RANDOM.INC)
 * [Тема на форуме](http://www.balancer.ru/g/p2279158)
 
-Поскольку с музыкой, то запускать нужно в DOSBox(http://www.dosbox.com/). Даже [под Windows](http://www.dosbox.com/download.php?main=1),
+Поскольку с музыкой, то запускать нужно в [DOSBox](http://www.dosbox.com/). Даже [под Windows](http://www.dosbox.com/download.php?main=1),
 так как в ней совместимость с DOS давно почти убита.
 
-Текст бежит русский, так что желательно поставить KeyRus(http://balancer.ru/files/1011/keyrus73.zip).
+Текст бежит русский, так что желательно поставить [KeyRus](http://balancer.ru/files/1011/keyrus73.zip).
 Для этого в dosbox.conf (в разных системах он лежит в разных местах) дописать что-то типа:
 
     [autoexec]
